@@ -1,9 +1,9 @@
 import CardStyle from "../scss/card.module.scss"
 
-const Card = () => {
+const Card = ({data}) => {
   return (
     <div>
-    <h2>Card</h2>
+    
     </div>
   )
 }
